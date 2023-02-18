@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="729c9020-3390-45fa-bdbf-7d0cbcf127a8" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.cproject" beforeDir="false" afterPath="$PROJECT_DIR$/.cproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28335_RAM_lnk.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/28335_RAM_lnk.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Power_Control_UPS.map" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Power_Control_UPS.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Power_Control_UPS.out" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Power_Control_UPS.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Power_Control_UPS_linkInfo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Power_Control_UPS_linkInfo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_ADC_cal.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_ADC_cal.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_Adc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_Adc.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_CodeStartBranch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_CodeStartBranch.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_CpuTimers.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_CpuTimers.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_DMA.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_DMA.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_DefaultIsr.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_DefaultIsr.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_EPwm.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_EPwm.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_GlobalVariableDefs.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_GlobalVariableDefs.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_Gpio.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_Gpio.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_MemCopy.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_MemCopy.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_PieCtrl.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_PieCtrl.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_PieVect.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_PieVect.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_Sci.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_Sci.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_SysCtrl.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_SysCtrl.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/DSP2833x_usDelay.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/DSP2833x_usDelay.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/HX_Pid.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/HX_Pid.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/HX_Spwm.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/HX_Spwm.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/Project_28335_Adc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/Project_28335_Adc.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/Project_28335_InitEpwm.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/Project_28335_InitEpwm.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/Project_28335_InitSystem.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/Project_28335_InitSystem.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/Project_28335_InitTaskTimer.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/Project_28335_InitTaskTimer.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/Project_28335_LED.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/Project_28335_LED.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Source/uart.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Source/uart.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/ccsObjs.opt" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/ccsObjs.opt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/subdir_vars.mk" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/subdir_vars.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/HX_Pid.c" beforeDir="false" afterPath="$PROJECT_DIR$/Source/HX_Pid.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/HX_Spwm.c" beforeDir="false" afterPath="$PROJECT_DIR$/Source/HX_Spwm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/HX_Pid.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/HX_Pid.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yGlcgh9YkZloHbhYITTauFdx4p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729c9020-3390-45fa-bdbf-7d0cbcf127a8" name="Default Changelist" comment="" />
+      <created>1631885890431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631885890431</updated>
+    </task>
+    <servers />
+  </component>
+</project>
